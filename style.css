@@ -1,3 +1,23 @@
-body {
+h3 {
+  color: purple;
+  text-decoration: 3px overline 
+    underline;
+  letter-spacing: 1px;
+  word-spacing: 15px;
+}
 
+body {
+  backround-color: antiquewhite;
+}
+
+img:hover {
+  width: 300px;
+  border: purple dotted 15px;
+  border-radius: 70%
+}
+
+h3:hover {
+  font-size: 220%;
+  text-transform: uppercase;
+  text-decoration: wavy underline red;
 }
