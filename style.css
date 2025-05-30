@@ -1,5 +1,5 @@
-h3 {
-  color: purple;
+h1 {
+  color: lightpink;
   text-decoration: 3px overline 
     underline;
   letter-spacing: 1px;
@@ -12,21 +12,21 @@ body {
 
 img:hover {
   width: 300px;
-  border: purple dotted 15px;
+  border: purple dotted 10px;
   border-radius: 70%
 }
 
-h3:hover {
+h1:hover {
   font-size: 220%;
   text-transform: uppercase;
-  text-decoration: wavy underline red;
+  text-decoration: wavy underline pink;
 }
 
 
 nav {
   list-style-type: none;
   width: 100%;
-  background-color: lightpink;
+  background-color: lavender;
   position: fixed;
   top: 0;
   left: 0;
